@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="red">#FF0000</color>
+    <color name="bluedark">#4181ee</color>
+    <color name="bluelight">#2963b4</color>
+    <color name="textdesc">#282828</color>
+    <color name="forgot_password">#ebe4e5</color>
+    <color name="error_color">#ed907b</color>
+    
+</resources>
